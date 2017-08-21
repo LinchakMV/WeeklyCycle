@@ -1,1 +1,2 @@
-"# WeeklyCycle" 
+npm i
+npm start
